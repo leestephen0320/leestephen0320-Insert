@@ -1,2 +1,2 @@
-INSERT INTO table_name (title, artist)
+INSERT INTO song (title, artist)
 VALUES ('Miku', 'Hatsune Miku')
